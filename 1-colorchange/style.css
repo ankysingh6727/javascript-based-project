@@ -1,0 +1,21 @@
+html{
+    margin:0px;
+}
+.button{
+    width:100px;
+    height:100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#grey{ background: gray;
+
+}
+#pink{ background:pink;
+
+}
+#blue{ background: blue;
+
+}
+#green{ background:green;
+
+}
